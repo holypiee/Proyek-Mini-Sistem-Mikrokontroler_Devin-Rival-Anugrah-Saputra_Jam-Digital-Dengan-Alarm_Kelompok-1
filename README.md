@@ -1,2 +1,2 @@
 # Proyek-Mini-Sistem-Mikrokontroler_Devin-Rival-Anugrah-Saputra_Jam-Digital-Dengan-Alarm_Kelompok-1
-Membuat jam digital berbasis Arduino dengan fitur alarm yang dapat menyimpan pengaturan waktu secara permanen dan mudah disesuaikan dengan kebutuhan pengguna.
+Mengembangkan sebuah jam digital berbasis mikrokontroler Arduino yang dilengkapi dengan fitur alarm menggunakan modul RTC, LCD, dan buzzer, serta mampu menyimpan pengaturan waktu alarm secara permanen menggunakan EEPROM, sehingga dapat digunakan sebagai pengingat kegiatan penting secara efektif, hemat biaya, dan mudah disesuaikan dengan kebutuhan pengguna.
